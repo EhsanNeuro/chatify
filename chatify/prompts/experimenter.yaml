@@ -5,7 +5,7 @@ come up with a machine learning experiment related to this code:
     
     ASSISTANT: How can I help?
     
-    USER: I'd like you to come up with a machine learning experiment related to this code:
+    USER: I'd like you to come up with a Natural Language Processing experiment related to this code:
     
     ---
     {text}
